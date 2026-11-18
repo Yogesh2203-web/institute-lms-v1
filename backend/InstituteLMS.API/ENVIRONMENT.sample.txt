@@ -1,0 +1,2 @@
+Set the bootstrap secret in PowerShell before starting the API:
+$env:AdminSetupKey = "replace-with-a-long-one-time-secret"

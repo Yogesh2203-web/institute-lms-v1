@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd frontend && npm install && npm run build",
+  "outputDirectory": "frontend/dist/institute-lms-ui/browser",
+  "installCommand": "cd frontend && npm install",
+  "framework": null
+}
